@@ -1,4 +1,3 @@
-```markdown
 # Architect Website
 
 Welcome to the Architect Website project repository! This project aims to showcase the expertise and services of an architectural firm through an engaging and user-friendly website built using Node.js, Express.js, and MongoDB.
